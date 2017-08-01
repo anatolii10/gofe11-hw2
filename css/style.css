@@ -1,0 +1,90 @@
+body {
+	/*background-color: blue;*/
+}
+
+.task_2 {
+	width: 340px;
+}
+
+.task_2 h2 {
+	background-color: red;
+	color: white;
+	width: 85px;
+}
+
+.task_2 p {
+	background-color: yellow;
+	height: 40px;
+}
+
+.task_2 .text {
+	background-color: blue;
+	height: 50px;
+}
+
+.task_3 .red{
+	background-color: red;
+	width: 50px;
+	height: 40px;
+	margin-bottom: 15px;
+}
+
+.task_3 .orange {
+	background-color: orange;
+	width: 100px;
+	height: 40px;
+	margin-bottom: 15px;
+	
+}
+
+.task_3 .blue {
+	background-color: blue;
+	width: 150px;
+	height: 40px;
+	
+
+}
+.task_4 p {
+	height: 100px;
+    width: 300px;
+    background-color: #FF733A;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.task_5 {
+	background-color: #D6D7BE;
+	width: 485px;
+	height: 217px;
+}
+
+.task_5 h3 {
+	color: #875327;
+}
+
+.task_5 a {
+	color: #285501;
+}
+
+.task_6 {
+	margin-top: 15px;
+	border: 2px dashed black;
+	width: 430px;
+	font-size: 20px;
+}
+
+.task_7 {
+	margin-top: 15px;
+	border: 2px dashed black;
+	width: 430px;
+	font-size: 20px;
+}
+
+.task_7 sup {
+	color: red;
+}
+
+.task_7 sub {
+	color: blue;
+}
